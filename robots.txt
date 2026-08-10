@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-demo-bitkoin.github.io
+Sitemap: https://kazino-demo-bitkoin.github.io/sitemap.xml
